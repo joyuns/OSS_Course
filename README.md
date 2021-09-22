@@ -16,8 +16,8 @@
 I am very happy to study computer science and engineering in my university:grin:
 
 This is my career that I am going to fill.  
-*:grey_question:  
-*:grey_question:  
-*:grey_question:  
-*:grey_question:  
-*:grey_question:
+ * :grey_question:  
+ * :grey_question:  
+ * :grey_question:  
+ * :grey_question:  
+ * :grey_question: 
