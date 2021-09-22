@@ -7,10 +7,12 @@
 -I am a koeran:kr:
 
 # <center>:hammer_and_wrench:**My tech stack**</center>
+<img src="https://img.shields.io/badge/C-#A8B9CCstyle=flat-square&logo=C&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1Estyle=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1Estyle=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
+
 
 I open some of my research works: [Triangulation Toolbox](https://github.com/sunglok/TriangulationToolbox) (MATLAB) and [RANSAC Template Library](https://github.com/sunglok/rtl) (C++).
 
