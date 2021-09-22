@@ -8,16 +8,18 @@
 
 I am very happy to study computer science and engineering in my university:grin:
 
-# :hammer_and_wrench:**My tech stack**
+# <center>:hammer_and_wrench:**My tech stack**</center>
+<center>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
+</center>
 
 This is my career that I am going to fill
-*&nbsp;
-*&nbsp;
-*&nbsp;
-*&nbsp;
-*&nbsp;
+*&nbsp;:grey_question:
+*&nbsp;:grey_question:
+*&nbsp;:grey_question:
+*&nbsp;:grey_question:
+*&nbsp;:grey_question:
