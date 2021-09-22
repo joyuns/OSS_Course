@@ -4,7 +4,9 @@
 
 -My major is [computer science and engineering](https://computer.seoultech.ac.kr/).
 
-# <center>:gear:**My tech stack**:gear:</center>
+-I am a koeran::kr::
+
+# <center>:hammer_and_wrench:**My tech stack**:hammer_and_wrench:</center>
 
 
 I open some of my research works: [Triangulation Toolbox](https://github.com/sunglok/TriangulationToolbox) (MATLAB) and [RANSAC Template Library](https://github.com/sunglok/rtl) (C++).
