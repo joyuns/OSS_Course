@@ -4,7 +4,7 @@
 
 -My major is [computer science and engineering](https://computer.seoultech.ac.kr/).
 
-#<center>**My tech stack**</center>
+# <center>:gear:**My tech stack**:gear:</center>
 
 
 I open some of my research works: [Triangulation Toolbox](https://github.com/sunglok/TriangulationToolbox) (MATLAB) and [RANSAC Template Library](https://github.com/sunglok/rtl) (C++).
