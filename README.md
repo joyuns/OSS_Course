@@ -15,11 +15,9 @@ I am very happy to study computer science and engineering in my university:grin:
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
 
-I am very happy to study computer science and engineering in my university:grin:
-
-This is my career that I am going to stuff
-*
-*
-*
-*
-*
+This is my career that I am going to fill
+*&nbsp;
+*&nbsp;
+*&nbsp;
+*&nbsp;
+*&nbsp;
