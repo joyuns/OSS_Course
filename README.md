@@ -1,10 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=yunseong%20jo&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=YunSeong&nbsp;Jo&fontSize=60)
 
-I am yunseong jo, student in the [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SeoulTech](https://en.seoultech.ac.kr/).
+-My name is yunseong jo, student in the [Seoul national university of science and technology](https://www.seoultech.ac.kr/).
 
-My research interests include
-* :car: **Robot Navigation**: Localization, SLAM, Path Planning, Path Following
-* :camera: **Computer Vision**: Robust Regression, 3D Vision (Visual Odometry, Visual SLAM, SFM)
+-My major is [computer science and engineering](https://computer.seoultech.ac.kr/).
+
+#<center>**My tech stack**</center>
+
 
 I open some of my research works: [Triangulation Toolbox](https://github.com/sunglok/TriangulationToolbox) (MATLAB) and [RANSAC Template Library](https://github.com/sunglok/rtl) (C++).
 
