@@ -4,23 +4,22 @@
 
 -My major is [computer science and engineering](https://computer.seoultech.ac.kr/).
 
--I am a koeran:kr:
+-My nationality is koera:kr::kr:
 
-# <center>:hammer_and_wrench:**My tech stack**</center>
+I am very happy to study computer science and engineering in my university:grin:
+
+# :hammer_and_wrench:**My tech stack**
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
 
+I am very happy to study computer science and engineering in my university:grin:
 
-I open some of my research works: [Triangulation Toolbox](https://github.com/sunglok/TriangulationToolbox) (MATLAB) and [RANSAC Template Library](https://github.com/sunglok/rtl) (C++).
-
-I am always happy 😄 to share my knowledge 📘 with others. Please visit the follows if you are interested.
-* [An Invitation to 3D Vision: A Tutorial for Everyone](https://github.com/sunglok/3dv_tutorial)
-* Python in 3 Hours
-* Programming meets Mathematics
-* Machine Learning Brief with scikit-learn
-* [Deep Learning Brief with PyTorch](https://github.com/mint-lab/dl_tutorial)
-* [MINT Lab's Know-Where](https://github.com/mint-lab/know-where)
-* [Awesome Robotics Datasets](https://mint-lab.github.io/awesome-robotics-datasets/)
+This is my career that I am going to stuff
+*
+*
+*
+*
+*
