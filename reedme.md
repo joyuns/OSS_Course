@@ -1,5 +1,3 @@
-This is the test file
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sunglok%20Choi&fontSize=32)
 
 I am Sunglok Choi, Assistant Professor in the [Dept. of Computer Science and Engineering](https://computer.seoultech.ac.kr/), [SeoulTech](https://en.seoultech.ac.kr/).
@@ -18,4 +16,5 @@ I am always happy 😄 to share my knowledge 📘 with others. Please visit the 
 * [Deep Learning Brief with PyTorch](https://github.com/mint-lab/dl_tutorial)
 * [MINT Lab's Know-Where](https://github.com/mint-lab/know-where)
 * [Awesome Robotics Datasets](https://mint-lab.github.io/awesome-robotics-datasets/)
- No newline at end of file
+
+Test file
