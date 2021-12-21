@@ -1,16 +1,16 @@
-설명
+#설명
 -주가만을 이용해 다음날의 주가를 예측할 수 있는가를 파악하기 위한 프로그램을 제작함.
 
-결과
-![samsung](./img/samsung.png)
+#결과
+![samsung](img/samsung.png)
 
-단점
+#단점
 -주가를 예측하는 모습보다 전날의 가격을 따라가는 모습이 나타남
 
-해결법
+#해결법
 -거래량, 매수세, 매도세 등등의 다른 값들을 이용하면 조금 더 정확한 예측이 가능할 것 같다.
 
-제작과정
+#제작과정
 1.야후 파이낸스에서 데이터를 download한다.  
 2.tenserflow, Keara 라이브러리 import후 다운받은 csv파일을 불러온다.  
 3.고가, 저가의 중간 값이 mid_prices를 구한다.  
@@ -22,7 +22,7 @@
 9.matpliot을 통해 실제모델과 예측모델의 차이를 살핀다.  
   
 
-참고자료
+#참고자료
  * https://datamasters.co.kr/25 (라이브러리 설치)
  * https://www.olis.or.kr/license/compareGuide.do (라이센스 확인)
  * https://www.oss.kr/oss_license (라이센스 확인)
@@ -34,8 +34,8 @@
  * http://daplus.net/python-서브-플롯에-대한-pyplot-좌표축-레이블/ (서브플롯)
  * https://data-make.tistory.com/137 (서브플롯)
 
-라이센스
+#라이센스
  * https://www.apache.org/licenses/LICENSE-2.0
 
-데이타 얻는곳
+#데이타 얻는곳
  * https://finance.yahoo.com/quote/005930.KS/history?p=005930.KS
